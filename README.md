@@ -59,7 +59,7 @@ Shows the usage screen and exits.
 
 #Important note
 
-While scanning, press 'q' to exit... **_DON'T PRESS Ctrl^C_**  
+While scanning, press '**q**' to exit... **_DON'T PRESS Ctrl^C_**
 
 # License
 
